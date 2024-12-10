@@ -17,6 +17,7 @@
     kubectl create token engineer -n default
     kubectl create token devops -n default
     ```
+    (либо запустить скрипт `create_users.ps1` в Windows Power Shell).
 
 3. Создать роли
 
